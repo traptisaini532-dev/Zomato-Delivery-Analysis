@@ -1,4 +1,4 @@
-📊 Zomato Delivery Data Analysis Project
+# Zomato Delivery Data Analysis Project
 
 # Overview
 This project focuses on analyzing Zomato delivery data to understand delivery patterns, order trends, and factors affecting delivery time.
