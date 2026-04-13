@@ -1,40 +1,52 @@
-# Zomato Delivery Data Analysis Project
+#  Zomato Delivery Data Analysis
 
-## Overview
-This project focuses on analyzing Zomato delivery data to understand delivery patterns, order trends, and factors affecting delivery time.
+##  Overview  
+This project analyzes Zomato delivery data to understand order trends, delivery performance, and key factors affecting delivery time. The analysis helps in improving efficiency and making data-driven decisions.
 
-## Objectives
-. Analyze delivery time performance
-. Study impact of traffic and weather
-. Identify peak order hours
-. Extract meaningful insights from delivery data
+##  Objectives  
+- Analyze delivery time patterns  
+- Identify peak order hours  
+- Study the impact of traffic and weather  
+- Evaluate delivery performance based on ratings  
 
-## Tools & Technologies
-. Python
-. Pandas
-. Matplotlib / Seaborn
-. Jupyter Notebook
+##  Tools & Technologies  
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
 
-## Dataset
-The dataset is in CSV format and contains details such as delivery person information, order time, pickup time, location coordinates, traffic, weather, and delivery time.
+##  Dataset  
+The dataset contains information such as:  
+- Delivery person details (age, ratings)  
+- Order and pickup time  
+- Restaurant & delivery location  
+- Weather and traffic conditions  
+- Delivery time (in minutes)  
 
-## Analysis
-. Orders per hour analysis
-. Delivery time distribution
-. Traffic vs delivery time
-. Weather impact on delivery
-. Ratings vs delivery efficiency
+##  Analysis Performed  
+- Orders per hour distribution  
+- Delivery time analysis  
+- Traffic vs delivery time comparison  
+- Weather impact on delivery  
+- Ratings vs delivery efficiency  
 
-## How to Run
-. Clone the repository
-. Install required libraries
-. Run the Jupyter Notebook.
+##  How to Run  
+1. Download or clone the repository  
+2. Install required libraries (pandas, matplotlib, seaborn)  
+3. Open the Jupyter Notebook  
+4. Run all cells to see analysis and visualizations  
 
-## Results
-. The analysis provides insights such as:
-. Peak orders occur during evening hours
-. Traffic and weather significantly affect delivery time
-. Most deliveries are completed within 20–35 minutes
+##  Key Insights  
+- Peak orders occur during evening hours  
+- High traffic leads to longer delivery time  
+- Weather conditions affect delivery efficiency  
+- Most deliveries are completed within 20–35 minutes  
 
-## Author
-Trapti Saini
+##  Future Scope  
+- Build a machine learning model for delivery time prediction  
+- Optimize delivery routes  
+- Integrate real-time traffic data  
+
+##  Author  
+Trapti Saini  
